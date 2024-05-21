@@ -1,0 +1,442 @@
+(lp0
+(S'we'
+p1
+S'collect'
+p2
+S'datum about how you use'
+p3
+S'We collect data about how you use CCS and the App for analytics purposes (as we describe in more detail below) using Google Analytics and Application Insights.'
+p4
+S'collect'
+p5
+tp6
+a(S'worldline'
+p7
+S'collect'
+p8
+S'datum'
+p9
+S'In the course of providing you the CCS, we will share data with SoundHound (who provide the Honda Personal Assistant service) and Worldline (who process payments on our behalf).'
+p10
+S'share'
+p11
+tp12
+a(S'soundhound'
+p13
+S'collect'
+p14
+S'datum'
+p15
+S'In the course of providing you the CCS, we will share data with SoundHound (who provide the Honda Personal Assistant service) and Worldline (who process payments on our behalf).'
+p16
+S'share'
+p17
+tp18
+a(S'we'
+p19
+S'collect'
+p20
+S'datum'
+p21
+S'In the course of providing you the CCS, we will share data with SoundHound (who provide the Honda Personal Assistant service) and Worldline (who process payments on our behalf).'
+p22
+S'share'
+p23
+tp24
+a(S'us'
+p25
+S'collect'
+p26
+S'personal datum'
+p27
+S'They must also be happy for you to give their personal data to us.'
+p28
+S'give'
+p29
+tp30
+a(S'we'
+p31
+S'collect'
+p32
+S'personal datum'
+p33
+S'Under the Data Protection Laws, we are required to explain what personal data we collect from you, how and why we use this data (the "processing activity"), and for how long we keep it.'
+p34
+S'collect'
+p35
+tp36
+a(S'we'
+p37
+S'collect'
+p38
+S'datum'
+p39
+S'Under the Data Protection Laws, we are required to explain what personal data we collect from you, how and why we use this data (the "processing activity"), and for how long we keep it.'
+p40
+S'use'
+p41
+tp42
+a(S'we'
+p43
+S'collect'
+p44
+S'" processing activity'
+p45
+S'Under the Data Protection Laws, we are required to explain what personal data we collect from you, how and why we use this data (the "processing activity"), and for how long we keep it.'
+p46
+S'use'
+p47
+tp48
+a(S'we_implicit'
+p49
+S'collect'
+p50
+S'what information'
+p51
+S'What information is collected?'
+p52
+S'collect'
+p53
+tp54
+a(S'we'
+p55
+S'collect'
+p56
+S"your mobile's device id"
+p57
+S"We obtain your mobile's Device ID from you (via the App)."
+p58
+S'obtain'
+p59
+tp60
+a(S'we'
+p61
+S'collect'
+p62
+S'following datum'
+p63
+S'When we contact you by e-mail we will use the following data: first and last name'
+p64
+S'use'
+p65
+tp66
+a(S'we'
+p67
+S'collect'
+p68
+S'first and last name'
+p69
+S'When we contact you by e-mail we will use the following data: first and last name'
+p70
+S'use'
+p71
+tp72
+a(S'we'
+p73
+S'collect'
+p74
+S'personal information'
+p75
+S'We may use your personal information to provide you with marketing and promotional materials (as stated above).'
+p76
+S'use'
+p77
+tp78
+a(S'we'
+p79
+S'collect'
+p80
+S'personal information'
+p81
+S'We will disclose your personal information to third parties in the event that we consider selling any business or assets, in which case we will disclose your personal information to any prospective buyers of such business or assets;'
+p82
+S'disclose'
+p83
+tp84
+a(S'third party'
+p85
+S'collect'
+p86
+S'personal information'
+p87
+S'We will disclose your personal information to third parties in the event that we consider selling any business or assets, in which case we will disclose your personal information to any prospective buyers of such business or assets;'
+p88
+S'disclose'
+p89
+tp90
+a(S'prospective buyer of such business'
+p91
+S'collect'
+p92
+S'personal information'
+p93
+S'We will disclose your personal information to third parties in the event that we consider selling any business or assets, in which case we will disclose your personal information to any prospective buyers of such business or assets;'
+p94
+S'disclose'
+p95
+tp96
+a(S'we'
+p97
+S'collect'
+p98
+S'personal information'
+p99
+S'We will disclose your personal information to third parties if we, or substantially all of our assets, are acquired by a third party, in which case personal information held by us about our customers will be one of the transferred assets;'
+p100
+S'disclose'
+p101
+tp102
+a(S'third party'
+p103
+S'collect'
+p104
+S'personal information'
+p105
+S'We will disclose your personal information to third parties if we, or substantially all of our assets, are acquired by a third party, in which case personal information held by us about our customers will be one of the transferred assets;'
+p106
+S'disclose'
+p107
+tp108
+a(S'third party'
+p109
+S'collect'
+p110
+S'personal information'
+p111
+S'We will disclose your personal information to third parties in the event we are the subject of any insolvency situation (e.g. the administration or liquidation);'
+p112
+S'disclose'
+p113
+tp114
+a(S'we'
+p115
+S'collect'
+p116
+S'personal information'
+p117
+S'We will disclose your personal information to third parties in the event we are the subject of any insolvency situation (e.g. the administration or liquidation);'
+p118
+S'disclose'
+p119
+tp120
+a(S'third party'
+p121
+S'collect'
+p122
+S'personal information'
+p123
+S'We will disclose your personal information to third parties in order to enforce or apply our terms and conditions, policies or any contract we have with you or have facilitated between you and a third party;'
+p124
+S'disclose'
+p125
+tp126
+a(S'we'
+p127
+S'collect'
+p128
+S'personal information'
+p129
+S'We will disclose your personal information to third parties in order to enforce or apply our terms and conditions, policies or any contract we have with you or have facilitated between you and a third party;'
+p130
+S'disclose'
+p131
+tp132
+a(S'our people'
+p133
+S'collect'
+p134
+S'personal information'
+p135
+S'We will disclose your personal information to third parties to protect our rights, property, or safety, or that of our people, or others.'
+p136
+S'disclose'
+p137
+tp138
+a(S'third party'
+p139
+S'collect'
+p140
+S'personal information'
+p141
+S'We will disclose your personal information to third parties to protect our rights, property, or safety, or that of our people, or others.'
+p142
+S'disclose'
+p143
+tp144
+a(S'other'
+p145
+S'collect'
+p146
+S'personal information'
+p147
+S'We will disclose your personal information to third parties to protect our rights, property, or safety, or that of our people, or others.'
+p148
+S'disclose'
+p149
+tp150
+a(S'we'
+p151
+S'collect'
+p152
+S'personal information'
+p153
+S'We will disclose your personal information to third parties to protect our rights, property, or safety, or that of our people, or others.'
+p154
+S'disclose'
+p155
+tp156
+a(S'we'
+p157
+S'collect'
+p158
+S'personal information'
+p159
+S'We will disclose your personal information to third parties if we are under a duty to disclose or share your personal information in order to comply with any legal obligation or regulatory requirements, or otherwise for the prevention or detection of fraud or crime.'
+p160
+S'disclose'
+p161
+tp162
+a(S'third party'
+p163
+S'collect'
+p164
+S'personal information'
+p165
+S'We will disclose your personal information to third parties if we are under a duty to disclose or share your personal information in order to comply with any legal obligation or regulatory requirements, or otherwise for the prevention or detection of fraud or crime.'
+p166
+S'disclose'
+p167
+tp168
+a(S'third_party_implicit'
+p169
+S'collect'
+p170
+S'datum be originally collect'
+p171
+S'We may transfer personal information to countries other than the country in which the data was originally collected, including countries outside the EU and the UK, such as India, in order to provide you with our services.'
+p172
+S'transfer'
+p173
+tp174
+a(S'we'
+p175
+S'collect'
+p176
+S'personal information'
+p177
+S'We may transfer personal information to countries other than the country in which the data was originally collected, including countries outside the EU and the UK, such as India, in order to provide you with our services.'
+p178
+S'transfer'
+p179
+tp180
+a(S'we'
+p181
+S'collect'
+p182
+S'datum be originally collect'
+p183
+S'We may transfer personal information to countries other than the country in which the data was originally collected, including countries outside the EU and the UK, such as India, in order to provide you with our services.'
+p184
+S'transfer'
+p185
+tp186
+a(S'third_party_implicit'
+p187
+S'collect'
+p188
+S'personal information'
+p189
+S'We may transfer personal information to countries other than the country in which the data was originally collected, including countries outside the EU and the UK, such as India, in order to provide you with our services.'
+p190
+S'transfer'
+p191
+tp192
+a(S'we_implicit'
+p193
+S'collect'
+p194
+S'information'
+p195
+S'These countries may not have the same data protection laws as the country in which you initially provided the information and may not provide the same level of protection.'
+p196
+S'provide'
+p197
+tp198
+a(S'we'
+p199
+S'collect'
+p200
+S'personal information'
+p201
+S'If we transfer personal information to countries outside of the EEA, we may rely on a decision from the European Commission (or, in the case of the UK, the Secretary of State) determining that the country provides an adequate level of protection to the Data Protection Laws (for example, an adequacy determination to transfer your data to our parent company located in Japan).'
+p202
+S'transfer'
+p203
+tp204
+a(S'eea'
+p205
+S'collect'
+p206
+S'personal information'
+p207
+S'If we transfer personal information to countries outside of the EEA, we may rely on a decision from the European Commission (or, in the case of the UK, the Secretary of State) determining that the country provides an adequate level of protection to the Data Protection Laws (for example, an adequacy determination to transfer your data to our parent company located in Japan).'
+p208
+S'transfer'
+p209
+tp210
+a(S'we_implicit'
+p211
+S'collect'
+p212
+S'number of different purpose'
+p213
+S'Since each item of data may be used for a number of different purposes, the determination of the relevant retention period depends on the nature of the data, why we process it and the legal and operational needs for keeping it.'
+p214
+S'use'
+p215
+tp216
+a(S'we_implicit'
+p217
+S'collect'
+p218
+S'item of datum'
+p219
+S'Since each item of data may be used for a number of different purposes, the determination of the relevant retention period depends on the nature of the data, why we process it and the legal and operational needs for keeping it.'
+p220
+S'use'
+p221
+tp222
+a(S'we'
+p223
+S'collect'
+p224
+S'further information'
+p225
+S'If you have any questions, please contact us so we can provide you with the further information you require.'
+p226
+S'provide'
+p227
+tp228
+a(S'we'
+p229
+S'collect'
+p230
+S'personal information'
+p231
+S'This right will only apply where (for example): we no longer need to use the personal information to achieve the purpose we collected it for;. where you withdraw your consent if we are using your personal information based on your consent; or.'
+p232
+S'use'
+p233
+tp234
+a(S'we'
+p235
+S'collect'
+p236
+S'personal information'
+p237
+S'A right to withdraw your consent, where we are relying on it to use your personal information (for example, to provide you with marketing material).'
+p238
+S'use'
+p239
+tp240
+a.

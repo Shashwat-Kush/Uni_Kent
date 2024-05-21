@@ -1,0 +1,519 @@
+(lp0
+(S'we'
+p1
+S'collect'
+p2
+S'additional information'
+p3
+S'If processing for another purpose takes place we may provide you with additional information.'
+p4
+S'provide'
+p5
+tp6
+a(S'third party'
+p7
+S'collect'
+p8
+S'personal datum'
+p9
+S'Your personal data may be processed for the respective purposes by the recipients and categories of recipients listed below Data processors, Certain third parties, whether affiliated or unaffiliated, may receive your personal data to process such data on behalf of KIA under appropriate instructions as necessary for the respective processing purposes.'
+p10
+S'receive'
+p11
+tp12
+a(S'us'
+p13
+S'collect'
+p14
+S'personal data'
+p15
+S'Your personal data is stored by us and our service providers, to the extent necessary for the performance of our obligations and for the time necessary to achieve the purposes for which the personal data is collected, in accordance with applicable data protection laws.'
+p16
+S'store'
+p17
+tp18
+a(S'our service provider'
+p19
+S'collect'
+p20
+S'personal data'
+p21
+S'Your personal data is stored by us and our service providers, to the extent necessary for the performance of our obligations and for the time necessary to achieve the purposes for which the personal data is collected, in accordance with applicable data protection laws.'
+p22
+S'store'
+p23
+tp24
+a(S'request of user'
+p25
+S'not_collect'
+p26
+S'text'
+p27
+S'After the conclusion of the respective agreement the text of the agreement will be provided to the User and is then stored by us but will no longer be accessible to the User, except upon request of the User.'
+p28
+S'provide'
+p29
+tp30
+a(S'user'
+p31
+S'collect'
+p32
+S'text'
+p33
+S'After the conclusion of the respective agreement the text of the agreement will be provided to the User and is then stored by us but will no longer be accessible to the User, except upon request of the User.'
+p34
+S'provide'
+p35
+tp36
+a(S'we_implicit'
+p37
+S'collect'
+p38
+S'text'
+p39
+S'After the conclusion of the respective agreement the text of the agreement will be provided to the User and is then stored by us but will no longer be accessible to the User, except upon request of the User.'
+p40
+S'provide'
+p41
+tp42
+a(S'user'
+p43
+S'collect'
+p44
+S'speak command'
+p45
+S'Online Voice Recognition enables the User to use spoken commands to access and control the Services and draft and send text messages via a connected mobile device.'
+p46
+S'use'
+p47
+tp48
+a(S'user'
+p49
+S'collect'
+p50
+S'contact detail'
+p51
+S'Users may use the contact details set out in Section 1 above in case of questions or complaints.'
+p52
+S'use'
+p53
+tp54
+a(S'we'
+p55
+S'collect'
+p56
+S'additional information'
+p57
+S'If processing for another purpose takes place we will provide you with additional information, if appropriate.'
+p58
+S'provide'
+p59
+tp60
+a(S'we_implicit'
+p61
+S'collect'
+p62
+S'voice sample'
+p63
+S'In addition, voice samples and GPS data will be collected and stored for up to 90 days in order to perform and improve the Online Voice Recognition service based on legitimate interests.'
+p64
+S'collect'
+p65
+tp66
+a(S'we_implicit'
+p67
+S'collect'
+p68
+S'voice sample'
+p69
+S'In addition, voice samples and GPS data will be collected and stored for up to 90 days in order to perform and improve the Online Voice Recognition service based on legitimate interests.'
+p70
+S'store'
+p71
+tp72
+a(S'kia'
+p73
+S'collect'
+p74
+S'personal datum'
+p75
+S'Kia may transfer your personal data for the respective purposes to the recipients and categories of recipients listed below Private third parties, Affiliated or unaffiliated private bodies other than us that alone or jointly with others, determine the purposes and means of the processing of personal data.'
+p76
+S'transfer'
+p77
+tp78
+a(S'us'
+p79
+S'not_collect'
+p80
+S'personal datum'
+p81
+S'Kia may transfer your personal data for the respective purposes to the recipients and categories of recipients listed below Private third parties, Affiliated or unaffiliated private bodies other than us that alone or jointly with others, determine the purposes and means of the processing of personal data.'
+p82
+S'transfer'
+p83
+tp84
+a(S'recipient'
+p85
+S'collect'
+p86
+S'personal datum'
+p87
+S'Kia may transfer your personal data for the respective purposes to the recipients and categories of recipients listed below Private third parties, Affiliated or unaffiliated private bodies other than us that alone or jointly with others, determine the purposes and means of the processing of personal data.'
+p88
+S'transfer'
+p89
+tp90
+a(S'recipient'
+p91
+S'collect'
+p92
+S'personal datum'
+p93
+S'Kia may transfer your personal data for the respective purposes to the recipients and categories of recipients listed below Data processors, Certain third parties, whether affiliated or unaffiliated, may receive your personal data to process such data on behalf of Kia under appropriate instructions as necessary for the respective processing purposes.'
+p94
+S'transfer'
+p95
+tp96
+a(S'third party'
+p97
+S'collect'
+p98
+S'personal datum'
+p99
+S'Kia may transfer your personal data for the respective purposes to the recipients and categories of recipients listed below Data processors, Certain third parties, whether affiliated or unaffiliated, may receive your personal data to process such data on behalf of Kia under appropriate instructions as necessary for the respective processing purposes.'
+p100
+S'receive'
+p101
+tp102
+a(S'kia'
+p103
+S'collect'
+p104
+S'personal datum'
+p105
+S'Kia may transfer your personal data for the respective purposes to the recipients and categories of recipients listed below Data processors, Certain third parties, whether affiliated or unaffiliated, may receive your personal data to process such data on behalf of Kia under appropriate instructions as necessary for the respective processing purposes.'
+p106
+S'transfer'
+p107
+tp108
+a(S'kia'
+p109
+S'collect'
+p110
+S'personal data'
+p111
+S'Your personal data is stored by Kia and our service providers, strictly to the extent necessary for the performance of our obligations and strictly for the time necessary to achieve the purposes for which the personal data is collected, in accordance with applicable data protection laws.'
+p112
+S'store'
+p113
+tp114
+a(S'our service provider'
+p115
+S'collect'
+p116
+S'personal data'
+p117
+S'Your personal data is stored by Kia and our service providers, strictly to the extent necessary for the performance of our obligations and strictly for the time necessary to achieve the purposes for which the personal data is collected, in accordance with applicable data protection laws.'
+p118
+S'store'
+p119
+tp120
+a(S'our service provider'
+p121
+S'collect'
+p122
+S'personal datum'
+p123
+S'Section shall be amended as follows your personal data is stored by Kia and our service providers, strictly to the extent necessary for the performance of our obligations and strictly for the time necessary to achieve the purposes for which the personal data is collected, in accordance with applicable data protection laws.'
+p124
+S'store'
+p125
+tp126
+a(S'kia'
+p127
+S'collect'
+p128
+S'personal datum'
+p129
+S'Section shall be amended as follows your personal data is stored by Kia and our service providers, strictly to the extent necessary for the performance of our obligations and strictly for the time necessary to achieve the purposes for which the personal data is collected, in accordance with applicable data protection laws.'
+p130
+S'store'
+p131
+tp132
+a(S'kia'
+p133
+S'collect'
+p134
+S'personal datum'
+p135
+S'Section shall be replaced as follows your personal data is stored by Kia and our service providers, strictly to the extent necessary for the performance of our obligations and strictly for the time necessary to achieve the purposes for which the personal data is collected, in accordance with applicable data protection laws.'
+p136
+S'store'
+p137
+tp138
+a(S'our service provider'
+p139
+S'collect'
+p140
+S'personal datum'
+p141
+S'Section shall be replaced as follows your personal data is stored by Kia and our service providers, strictly to the extent necessary for the performance of our obligations and strictly for the time necessary to achieve the purposes for which the personal data is collected, in accordance with applicable data protection laws.'
+p142
+S'store'
+p143
+tp144
+a(S'our service provider'
+p145
+S'collect'
+p146
+S'personal datum'
+p147
+S'Section shall be amended as follows your personal data is stored by Kia and our service providers, strictly to the extent necessary for the performance of our obligations and strictly for the time necessary to achieve the purposes for which the personal data is collected, in accordance with applicable data protection laws.'
+p148
+S'store'
+p149
+tp150
+a(S'kia'
+p151
+S'collect'
+p152
+S'personal datum'
+p153
+S'Section shall be amended as follows your personal data is stored by Kia and our service providers, strictly to the extent necessary for the performance of our obligations and strictly for the time necessary to achieve the purposes for which the personal data is collected, in accordance with applicable data protection laws.'
+p154
+S'store'
+p155
+tp156
+a(S'our service provider'
+p157
+S'collect'
+p158
+S'personal datum'
+p159
+S'Section 8 shall be replaced as follows Your personal data is stored by Kia and our service providers, strictly to the extent necessary for the performance of our obligations and strictly for the time necessary to achieve the purposes for which the personal data is collected, in accordance with applicable data protection laws.'
+p160
+S'store'
+p161
+tp162
+a(S'kia'
+p163
+S'collect'
+p164
+S'personal datum'
+p165
+S'Section 8 shall be replaced as follows Your personal data is stored by Kia and our service providers, strictly to the extent necessary for the performance of our obligations and strictly for the time necessary to achieve the purposes for which the personal data is collected, in accordance with applicable data protection laws.'
+p166
+S'store'
+p167
+tp168
+a(S'user'
+p169
+S'collect'
+p170
+S'contact detail'
+p171
+S'Users may use the contact details set out in Section 1 above in case of questions or complaints.'
+p172
+S'use'
+p173
+tp174
+a(S'we'
+p175
+S'collect'
+p176
+S'additional information'
+p177
+S'If processing for another purpose takes place we will provide you with additional information, if appropriate.'
+p178
+S'provide'
+p179
+tp180
+a(S'other user'
+p181
+S'not_collect'
+p182
+S'live route'
+p183
+S'However, the other user cannot access your live routes.'
+p184
+S'access'
+p185
+tp186
+a(S'kia'
+p187
+S'collect'
+p188
+S'personal datum'
+p189
+S'Kia may transfer your personal data for the respective purposes to the recipients and categories of recipients listed below Private third parties, Affiliated or unaffiliated private bodies other than us that alone or jointly with others, determine the purposes and means of the processing of personal data.'
+p190
+S'transfer'
+p191
+tp192
+a(S'us'
+p193
+S'not_collect'
+p194
+S'personal datum'
+p195
+S'Kia may transfer your personal data for the respective purposes to the recipients and categories of recipients listed below Private third parties, Affiliated or unaffiliated private bodies other than us that alone or jointly with others, determine the purposes and means of the processing of personal data.'
+p196
+S'transfer'
+p197
+tp198
+a(S'recipient'
+p199
+S'collect'
+p200
+S'personal datum'
+p201
+S'Kia may transfer your personal data for the respective purposes to the recipients and categories of recipients listed below Private third parties, Affiliated or unaffiliated private bodies other than us that alone or jointly with others, determine the purposes and means of the processing of personal data.'
+p202
+S'transfer'
+p203
+tp204
+a(S'datum processor'
+p205
+S'collect'
+p206
+S'personal datum'
+p207
+S'Data processors, Certain third parties, whether affiliated or unaffiliated, may receive your personal data to process such data on behalf of Kia under appropriate instructions as necessary for the respective processing purposes.'
+p208
+S'receive'
+p209
+tp210
+a(S'kia'
+p211
+S'collect'
+p212
+S'personal data'
+p213
+S'Your personal data is stored by Kia and our service providers, strictly to the extent necessary for the performance of our obligations and strictly for the time necessary to achieve the purposes for which the personal data is collected, in accordance with applicable data protection laws.'
+p214
+S'store'
+p215
+tp216
+a(S'our service provider'
+p217
+S'collect'
+p218
+S'personal data'
+p219
+S'Your personal data is stored by Kia and our service providers, strictly to the extent necessary for the performance of our obligations and strictly for the time necessary to achieve the purposes for which the personal data is collected, in accordance with applicable data protection laws.'
+p220
+S'store'
+p221
+tp222
+a(S'we_implicit'
+p223
+S'collect'
+p224
+S'in particular location datum'
+p225
+S'If Offline Mode is turned on all Kia Connect functions are disabled and no personal data, in particular no location data (GPS), is collected.'
+p226
+S'collect'
+p227
+tp228
+a(S'we_implicit'
+p229
+S'collect'
+p230
+S'personal datum'
+p231
+S'If Offline Mode is turned on all Kia Connect functions are disabled and no personal data, in particular no location data (GPS), is collected.'
+p232
+S'collect'
+p233
+tp234
+a(S'our service provider'
+p235
+S'collect'
+p236
+S'personal datum'
+p237
+S'Section shall be amended as follows your personal data is stored by Kia and our service providers, strictly to the extent necessary for the performance of our obligations and strictly for the time necessary to achieve the purposes for which the personal data is collected, in accordance with applicable data protection laws.'
+p238
+S'store'
+p239
+tp240
+a(S'kia'
+p241
+S'collect'
+p242
+S'personal datum'
+p243
+S'Section shall be amended as follows your personal data is stored by Kia and our service providers, strictly to the extent necessary for the performance of our obligations and strictly for the time necessary to achieve the purposes for which the personal data is collected, in accordance with applicable data protection laws.'
+p244
+S'store'
+p245
+tp246
+a(S'kia'
+p247
+S'collect'
+p248
+S'personal datum'
+p249
+S'Section shall be replaced as follows your personal data is stored by Kia and our service providers, strictly to the extent necessary for the performance of our obligations and strictly for the time necessary to achieve the purposes for which the personal data is collected, in accordance with applicable data protection laws.'
+p250
+S'store'
+p251
+tp252
+a(S'our service provider'
+p253
+S'collect'
+p254
+S'personal datum'
+p255
+S'Section shall be replaced as follows your personal data is stored by Kia and our service providers, strictly to the extent necessary for the performance of our obligations and strictly for the time necessary to achieve the purposes for which the personal data is collected, in accordance with applicable data protection laws.'
+p256
+S'store'
+p257
+tp258
+a(S'our service provider'
+p259
+S'collect'
+p260
+S'personal datum'
+p261
+S'Section shall be amended as follows your personal data is stored by Kia and our service providers, strictly to the extent necessary for the performance of our obligations and strictly for the time necessary to achieve the purposes for which the personal data is collected, in accordance with applicable data protection laws.'
+p262
+S'store'
+p263
+tp264
+a(S'kia'
+p265
+S'collect'
+p266
+S'personal datum'
+p267
+S'Section shall be amended as follows your personal data is stored by Kia and our service providers, strictly to the extent necessary for the performance of our obligations and strictly for the time necessary to achieve the purposes for which the personal data is collected, in accordance with applicable data protection laws.'
+p268
+S'store'
+p269
+tp270
+a(S'our service provider'
+p271
+S'collect'
+p272
+S'personal datum'
+p273
+S'Section 8 shall be replaced as follows Your personal data is stored by Kia and our service providers, strictly to the extent necessary for the performance of our obligations and strictly for the time necessary to achieve the purposes for which the personal data is collected, in accordance with applicable data protection laws.'
+p274
+S'store'
+p275
+tp276
+a(S'kia'
+p277
+S'collect'
+p278
+S'personal datum'
+p279
+S'Section 8 shall be replaced as follows Your personal data is stored by Kia and our service providers, strictly to the extent necessary for the performance of our obligations and strictly for the time necessary to achieve the purposes for which the personal data is collected, in accordance with applicable data protection laws.'
+p280
+S'store'
+p281
+tp282
+a.

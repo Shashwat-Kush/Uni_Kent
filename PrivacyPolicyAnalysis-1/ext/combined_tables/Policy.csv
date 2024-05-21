@@ -1,0 +1,4 @@
+policyId,entity,action,data
+1,third party,collect,pii
+2,recipient,collect,pii
+3,third party,collect,information about you
