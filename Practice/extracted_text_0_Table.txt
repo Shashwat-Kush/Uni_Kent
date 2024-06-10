@@ -1,0 +1,413 @@
+
+        Honda | My Honda+ app | Privacy Policy | Car apps | Download Car apps
+    
+                    Overview 
+                    
+My Honda+ Privacy Policy
+My Honda+ Connected Car Privacy Policy
+Honda Motor Europe Limited ("Honda") is committed to ensuring that your privacy is protected and we comply with the General Data Protection Regulation and other applicable data protection rules (including the Data Protection Act 2018 and marketing and cookies laws, together with associated guidance) (the "Data Protection Laws").
+This policy is about how we handle the personal information of our Connected Car ("Honda Car" or "Car") owners, users of our Connected Car Services ("CCS") and users of the My Honda+ mobile app ("App"), whether you are the primary account holder ("Primary User") or have been permitted by a Primary User to share their account ("Invited User").
+If you are the owner or prospective owner of a Honda Car, a visitor to our website, a visitor to a retailer, or have downloaded or used one of our other apps, please see our general Privacy Notice.  If you are an applicant, applying to be a Honda employee, please see our Applicant privacy policy.
+This policy explains how we use, store and share the information we collect about you, how you can exercise your rights in respect of that information and the procedures that we have in place to safeguard your privacy. This policy supplements any other fair processing or privacy notice that may be provided to you from time to time (including our general Privacy Notice). Please contact us by email at DPM-UK@honda-eu.com if you have any questions, comments or concerns about this policy or how we handle your personal information, or if such information changes at any time.
+Our CCS and App (for the purposes of this policy, together the "Services") is provided by Honda Motor Europe Limited (company number 857969, Cain Road, Bracknell, Berkshire, England, RG12 1HL) ("we" and "us"). For the purpose of the Data Protection Laws, we are the controller of the personal information processed for the purposes set out below and we are responsible for looking after it.
+We collect data about how you use CCS and the App for analytics purposes (as we describe in more detail below) using Google Analytics and Application Insights.
+Changes to this policy
+Any changes to this policy in the future will be posted on this page and, where appropriate, notified to you by email and/or by way of in-car or in-app pop-up. Please check back frequently to see any updates or changes to this policy.
+Processing of your data by third parties
+Please note: this policy does not cover third party websites, apps or portals that we may link to from our Services and does not cover any services of other providers. We are not responsible for the privacy policies and practices (including use of cookies) of such third parties even if you accessed the third party website, app, portal or service using links from our Services.
+We recommend that you check the policy of each provider and contact such third party if you have concerns or questions. Any provider of other services such as insurers, breakdown recovery services, emergency services (who receive eCalls in emergency cases, as described in the Car's manual), providers of data packages, wi-fi hotspot services, online news or in-car social media, maps, travel or music will also separately be a “controller”. You can access the privacy policies of those providers from them directly.
+In the course of providing you the CCS, we will share data with SoundHound (who provide the Honda Personal Assistant service) and Worldline (who process payments on our behalf). Both SoundHound and Worldline process data on our behalf, as our processors, but they may also process data relating to you for their own purposes as independent controllers. Please take your time to review their respective privacy policies to understand how they may process your personal data independently of us. The policies can be found here:
+SoundHound - https://www.soundhound.com/en_gb/privacy
+Worldline – https://worldline.com/en/compliancy/privacy.html
+Providing us with information about your guests
+If you’re introducing an Invited User to us, we will provide a copy of this policy to them during the registration process.
+On the other hand, if you are providing or facilitating the provision of information about guests who are not Invited Users (e.g. passengers or alternative driver), it is your responsibility to make sure that such individuals are aware of this policy. They must also be happy for you to give their personal data to us. Otherwise, Honda does not actively collect nor intend to collect the personal data of other guests (e.g. passengers or alternative drivers) and operates on the assumption that the personal data held and processed relates only to Honda Car owners, users of CCS and users of the App.
+Information available to other persons
+Information available in the App
+Be aware that information available through CCS will be available to other users making use of the same account. As an example, Invited Users can view the trip history of the Honda Car which informs them about trips which the Primary User has made, and vice versa.
+You may switch off data sharing at any time. You will not be able to use CCS whilst data sharing is switched off but by switching off data sharing you will stop the collection of all data.
+Information available in the Honda Car
+Information available through CCS will also be visible to anyone who has access to the Car. When you sell / transfer your Honda Car to a third party you should make sure to remove the Car from the garage on the App so as to initiate the de-enrolment process. This results in the removal of the CCS data from the Car's Telematics Control Unit therefore the data will no longer be visible in the Car.
+For this process to be effective, the Honda Car needs to have sufficient battery charge and be connected to the mobile network.
+Please also note that the de-enrolment process may take up to 24 hours to be completed under standard network conditions. The conditions required for de-enrolment to take place can be found in clause 13.1 of the App Terms and conditions.
+The information we collect and how we use it
+Under the Data Protection Laws, we are required to explain what personal data we collect from you, how and why we use this data (the "processing activity"), and for how long we keep it. We are also required to have a "lawful basis" on which to process your personal information. This is summarised in the table below.
+With respect to our retention of your personal data, unless indicated otherwise in the table below, we retain and subsequently delete or anonymise your personal data as set out in the section "Retention of your personal data".
+Processing activity: Why we use your information?
+What information is collected?
+Lawful basis of processing
+Where is the information collected from?
+Specific retention periods
+My Honda Plus mobile app
+To set up and manage your Honda account, including sending you service notifications.
+Country
+Language
+Email address
+Address (including postcode)
+Mobile number
+Password
+Honda ID, which is a unique identifier generated for each Honda account holder during the registration process
+Your device ID which will be linked to your Honda ID where you opt to login using the touch ID, voice command or facial recognition features of your phone. We do not process your biometric data which remains on your device.
+Your preferences which you set in the App
+To take steps at your request to enter a contract with you, for the ongoing performance, management and facilitation of such contract.
+
+A failure to provide this information will unfortunately mean you will not be able to open a Honda account with us.
+
+To the extent that the processing goes beyond what is necessary for the contract, the processing is necessary for our legitimate interest to provide you with a good customer experience and to provide you with features to keep your account secure.
+From you (via the App)
+To protect your MyHonda+ account from fraudulent activity, including by implementing multi-factor authentication when your account is accessed using a different device (or if your phone is lost or stolen) 
+Device ID
+Honda ID
+Your authorisation of the additional device.
+If your device is lost or stolen, your request to access your account using a different device (You may be required to make this request through a retailer in which case the retailer will act as our processor)
+Email address
+Authentication code
+The processing is necessary for our legitimate interest to ensure the security of the services we provided
+From you (via the App)
+From your mobile
+Where an authentication code is required, this would be generated by Honda
+Any authentication code issued by Honda will no longer be valid once it is used and will not be retained by Honda thereafter
+To carry out analytics in order to improve the App.These analytics services are carried out by our service provider e3 Media Limited (trading as Great State).
+Information relating to your device, such as the device ID, the type and model of the device, and its operating system
+Information relating to your device's connection to the internet, such as the IP address
+Information about the configuration of your device, such as its screen resolution, time zone and language settings
+Information about how you use the App, which parts of the App you visit, how you access them, which features you use more or less than others, and how you interact with the different parts of the App
+Information about the times when you access the App, the frequency, and how much time you spend on different parts of the App
+Information about where you access the App fromInformation about the language in which you view the App
+The version of the App you use
+The processing is necessary for our legitimate interest to develop and improve our products and services.
+This information is generated when you use the App and is transmitted to us by the App.
+Connected Car Services
+To set up and manage your CCS account, including by sending you service notifications.This includes identifying the country in which your car is registered in order to determine the CCS available in that country and the relevant legal requirements which apply to the CCS (and to ensure that the CCS offered to you comply with such laws).
+In addition to the information processed for setting up and managing your Honda account (described above), we process the following information for CCS:
+Title, first name and last name
+Phone number
+Full postal address 
+Details of Honda Car collected during the enrolment process eg the Vehicle Identification number (VIN)
+CCS package selection
+Preferences including time zone
+For Primary Users, their Invited Users
+For Invited Users, the Primary User
+Car nickname
+If you are in Italy, we will also need your tax code
+To take steps at your request to enter a contract with you, for the ongoing performance, management and facilitation of such contract.
+The information is also needed to ensure compliance with applicable laws.
+A failure to provide this information will unfortunately mean you will not be able to open a Honda account with us. 
+Where any of the processing goes beyond what is necessary for the contract or compliance with laws, the processing is necessary for our legitimate interest to provide you with a good customer experience and to provide you with features to keep your account secure.
+From you (via the App)
+To pair your Honda and verify your eligibility for CCS as a Primary User  prior to providing you with CCS, periodically thereafter, and upon renewal of CCS.
+VIN
+PIN number generated by Honda
+eSIM number and status
+To take steps at your request to enter a contract with you, for the ongoing performance, management and facilitation of such contract.
+A failure to provide this information will unfortunately mean you will not be able to receive the Services from us.
+From you (via the App)
+The PIN number becomes obsolete after a short period of time therefore it is deleted shortly after it is generated.
+To connect your Honda Car to the mobile network so that you can receive the CCS. 
+We and AT&T (acting as our processors) process the following data:
+VIN
+eSIM number
+Country of Car registration
+Location
+To take steps at your request to enter a contract with you, for the ongoing performance, management and facilitation of such contract.
+Unfortunately without processing this data we would not be able to provide you with CCS.
+From your Car
+AT&T will process this data for as long as your eSIM is set to normal mode.
+To provide you with CCS (listed below), including sending you alerts.
+Virtual Dashboard
+MyHonda+ Messages
+EV Charging Status
+Battery Status
+Remove Lock
+Remote Unlock
+Remote Horn
+Remote Climate Control
+Climate Control Scheduler
+Remote Charge
+Charge Scheduler
+Maximum Charge Setting
+Plan Your Route
+Journey History
+Car Locator
+Send Destination
+Honda Digital Roadside Assistance
+Geo-Fence
+HDK Share Key
+HDK Power On
+HDK Lock & Unlock Doors
+HDK Close Windows
+HDK Open Charge Lid
+HDK Alerts
+VIN
+Mobile device ID
+Phone number
+First and last name
+Honda ID
+Language preference and country of registration
+Model code of the vehicle, model year of the vehicle
+GPS location of the vehicle and direction of travel
+Date and time of any breakdown
+Your instructions eg to sound the car horn, to implement geo-fence, to lock the Car, to inform us of a break down
+Car status eg door lock status, windows open, temperature in the Car, fuel level, speed, mileage, state of charge, whether the doors are closed or locked, whether the bonnet is closed, status of car lights, if the car is electric whether it is plugged in and receiving a supply of electricity
+Driving style information eg how you accelerate, break, and how fast you drive
+Your preferences which you set in relation to the CCS and alerts
+Vehicle diagnostics data such as tyre pressure, brake fluid, malfunctions, number of miles until next charge, remaining engine oil life, status of engine, warning lamps or other messages such as error codes.
+The processing is necessary for the ongoing performance, management and facilitation of our contract with you.
+From you (via the App)
+From the Car (via the TCU - the Telematics Control Unit)
+To track your Honda Car so as to provide you with the following services:
+Stolen Vehicle Tracking
+Car Locator
+Trip History
+Geo-fence
+Digital Roadside Assistance
+Location data
+The processing is necessary for the ongoing performance, management and facilitation of our contract with you.
+From your Car's GPS (via the TCU)
+Location data is retained for a period of 90 days if you have subscribed for Trip History. Otherwise it is constantly overwritten.
+Location data processed for providing you with Road Side Assistance is processed for the duration of your subscription and for any additional period required for legal reasons.
+Geo-fencing parameters set by you are only processed until you remove these parameters or your CCS subscription expires (whichever happens first).
+To enable you to transfer your app centre to the display audio of another Car
+We and Digitalist (acting as our processors) process the following data:
+VIN
+Customer ID
+The processing is necessary for the ongoing performance, management and facilitation of our contract with you.
+From your Car
+The Customer ID is generated by us
+Digitalist will only retain this data only for the active period of use of the service.
+To set up and provide you with Honda Digital Key Service
+Mobile Device ID
+Digital key code
+The processing is necessary for the ongoing performance, management and facilitation of our contract with you.
+We obtain your mobile's Device ID from you (via the App)
+To link your Electronic Vehicle Health Check ("EVHC") service with your CCS, so that you can receive EVHC reports and reminders through CCS
+We and Snap-On (acting as our processors) process the following data:
+VIN
+Car registration number
+Honda ID
+Data provided by Honda car retailers in relation to the work they carry out, such as services you have received from them, results of their inspections/work, services required by your Car and when, as well as videos showing issues with your Car
+EVHC reports (containing information provided by the retailers)
+The processing is necessary for the ongoing performance, management and facilitation of our contract with you.
+Retailers who service your Car
+Apart from your VIN and Car registration number which are retained by us, the information provided by retailers including the EVHC reports are kept for up to 6 years
+To carry out analytics in order to:
+Maintain and assure the quality of our products and services, including the Cars we produce, their components (eg the Car battery) and CCS  
+Improve and develop better products and services
+Understand (and provide you with information about) how you can use your Car more efficiently
+Journey data, such as your driving log
+Status data, such as whether your Malfunction Indication Lamp Status is on or off, alerts of vehicle problems which are visible on your dashboard, and remote services available to you  
+Event data, such as your CCS requests and errors relating to such requests, and notifications from your vehicles such as security alert
+Vehicle data, such as the data collected by the sensors in your vehicle (eg braking information, battery information, tyre condition), Diagnostic Trouble Code history, and floating car data (ie information about your vehicle's location and speed at specific times)
+The processing is necessary for our legitimate interests to maintain and improve our products and services, and to provide you with a better user experience.
+This information is generated when you use the CCS.
+To let you know if  (in the course of carrying out the analytics described in the previous row which we may do from time to time but not continuously) we discover that your Car battery's performance is sub-optimal
+Your contact details
+We will only contact you for this purpose: 
+(i) if you give us consent to do so. You may refuse consent, and you may also withdraw consent at any time by changing your contact preferences in the App.
+ or
+(ii) in the unlikely event that we discover a fault (in the course of carrying out the analytics described in the previous row on a non-continuous basis) which could endanger your vital interests, we may contact you to inform you about this even if you have not given us consent.
+From you (via the App)
+Honda Personal Assistant
+To provide you with the Honda Personal Assistant service 
+Apart from information which you provide directly using your vehicle voice assistance, namely your voice commands, SoundHound process the following data on our behalf, as our processors:
+Vehicle location;
+VIN
+Navigator information;
+Display information, such as what content is displayed on your screen (to give effect to the voice command) enable the voice command to be given effect;
+Music information on devices connected to the display;
+Contacts information on devices connected to the display;
+Information about the Honda Personal Assistant app, such as its identification details and language settings;
+Interpretation of your command;
+Latest response content.
+The processing is necessary for the ongoing performance, management and facilitation of our contract with you.
+This information is generated when you issue a command to the Honda Personal Assistant and is transmitted directly to SoundHound.
+The recording of your voice commands stops 1 second after you stop speaking.
+Unless you give us consent to retain this data for carrying out analytics (as described in the next row), Honda deletes this data each time you turn on the ignition or after 3 months from when it is collected (whichever is sooner).
+To carry out analytics in order to improve the Honda Personal Assistant
+If you give us consent, we and SoundHound will process the data described in the previous row for this purpose.
+SoundHound will process data for this purpose as our processors, and they will also process it as independent controllers for the purposes of maintaining and improving their product (ie the underlying audio and speech recognition service).
+Since SoundHound process this data as independent controllers, please review their privacy policy which can be found here: https://www.soundhound.com/en/privacy. SoundHound may update this policy from time to time.
+Consent (by indicating your preferences during the sign-up process or afterwards within the App).
+You are not obliged to consent to such processing and refusing consent would not affect your ability to use the Honda Personal Assistant. You will have the option to change your preference and withdraw consent at any time.
+If you do not have an option to give and withdraw consent within the App, your data will not be processed for this purpose.
+This information is generated when you issue a command to the Honda Personal Assistant and is transmitted directly to SoundHound.
+If you consent to this processing, we and SoundHound will retain your data for this purpose for up to 3 years as long as you remain the Primary User of the Car in this time or until you withdraw consent (if earlier).
+When the retention period expires, your data will be deleted as soon as possible (and within up to 30 days).
+This does not affect the retention of your data by Honda (or SoundHound as processor of Honda) to the extent that it is necessary to provide you with the Honda Personal Assistant (as described in the previous row).
+Honda Digital Roadside Assistance
+To provide you with Honda Digital Roadside Assistance   including sending you alerts and contacting you.
+VIN
+Mobile device
+ID
+Phone number
+First and last name
+Language preference and country of registration
+Model code of the vehicle, model year of the vehicle
+GPS location of the vehicle and direction of travel
+Date and time of breakdown
+Honda ID
+Your instructions eg to confirm your vehicle has suffered a break down
+Car status eg fuel level, mileage, speed of vehicle, state of charge, temperature in the vehicle, whether the doors are closed or locked, whether the bonnet is closed, the status of the car lights, the status of the windows, if the vehicle is electric whether it is plugged in and receiving a supply
+Your preferences which you set in relation to the CCS and alerts
+Vehicle diagnostics data such as tyre pressure, brake fluid and malfunctions, number of miles until next charge, remaining engine oil life, status of engine, warning lamps or other messages such as error codes.
+We do not require any data relating to your health.
+The processing is necessary for the ongoing performance, management and facilitation of our contract with you.
+In order to comply with laws.
+From you (via the App)
+From the Car (via the TCU - the Telematics Control Unit)
+We will keep your data for up to 7 years following the end of your contract for Honda Digital Roadside Assistance. 
+If you make a complaint regarding this service, we will retain your data for 7 years after the complaint has been resolved.
+If you speak to us or one of our third party roadside assistance suppliers, we will retain your data for up to 5 years from the date of the call recording.
+After each of these periods of time have elapsed, we will either delete or anonymise your data.
+Display Audio
+To provide you with your display audio functionality.
+Drive history
+VIN
+Android log cat
+Mobile device ID
+Wi-Fi station
+GPS information
+USB device information
+The processing is necessary for the ongoing performance, management and facilitation of our contract with you.
+From your car’s display audio
+Panasonic will only retain this data for the period of the investigation to identify and resolve the fault.
+General
+To process payments due to us, including CCS subscription packages.
+Payments to us are processed by Worldline, who process your data as independent controllers in accordance with their privacy policy (which can be found here: https://be.worldline.com/content/dam/worldline-be/terms-and-conditions/en_gb/Privacy-Notice-Worldline-EN-2018-5.pdf). 
+We recommend that you review their policy, which may be updated by them from time to time.
+The data which is processed by Worldline consists of:
+Payment card data, namely PAN, expiry date, and cardholder name for card not present transactions
+Transaction information, namely date and time of payment, amount, currency, Merchant Category Code (MCC), and payment authorisation codeAddress (including postcode)
+Where Worldline process any data as our processors, we will put in place appropriate contractual clauses as required by law.
+Payment card providers such as VISA and Mastercard, as well as card issuing banks are also controllers in their own right and will process your personal data in accordance with their own privacy policy.
+To take steps at your request to enter a contract with you, for the ongoing performance, management and facilitation of such contract.
+A failure to provide this information will unfortunately mean you will not be able to purchase CCS subscription packages.
+From you (via the App)
+From Worldline
+Honda can access some of the information held by Worldline (eg a masked / partial card number) for up to 18 months after the date of the transaction.
+We retain copies of some of this data (as described in the next row) for 10 years after the date of the relevant transaction, for the purpose of preventing and detecting fraud.
+Note that Worldline retain this data, as independent controllers, in accordance with their privacy policy.
+To prevent and detect fraud
+Payment transaction reference
+Transaction data, namely customer ID and customer IP address
+This processing is necessary for our legitimate interests to prevent and detect fraud
+From you (via the App)
+From Worldline
+10 years from the date of the relevant transaction.
+To contact you (via the app or by e-mail) with information concerning CCS or the app
+When we contact you by e-mail we will use the following data:
+First and last name
+Email address
+This processing is necessary for our legitimate interest in providing you with CCS and the app
+From you (via the App)
+To contact you about Honda products or services, competitions, exciting offers, newsletters and general marketing and advertising (digital and otherwise)
+Marketing preferences
+Device ID 
+Consent (by indicating preferences during the App sign-up) . You have the ability to change this in the in-App preference centre at any time.
+From you (via the App)
+We will only process data for this purpose for as long as you consent to marketing (via the marketing preferences settings in the App).
+We will also continue to process your marketing preferences so that we are able to comply with them.
+To carry out market research, including by means of surveys, so that we can improve our products and services
+Contact details
+Device ID
+Your responses to our market research questions
+The processing is necessary for our legitimate interest to develop and improve our products and services.We will only include promotional content in our market research materials if you have given us consent to send you marketing.
+From you (via the App)
+We have determined, acting reasonably and considering the circumstances, that we are able to rely on legitimate interests as the lawful basis on which to process your personal information in certain circumstances (we have stated this above and set out our legitimate interests). We have reached this decision by carrying out a balancing exercise to make sure our legitimate interest does not override your privacy rights as an individual. If you require further information regarding this balancing test, please contact us.
+Marketing and promotional materials
+
+We may use your personal information to provide you with marketing and promotional materials (as stated above).
+We never pass your personal information to third parties allowing them to send you marketing of their own, unless you have expressly agreed to this. However, we may use third party processors to send marketing to you on our behalf.
+You may opt-out of receiving marketing and promotional materials by changing your marketing preferences in the App.
+Security
+We have in place appropriate policies, rules and technical and organisational measures to protect your personal information from unauthorised or unlawful processing, and against accidental loss, destruction or damage.
+We also have procedures in place to deal with any data security breach. We will notify you and any applicable regulator of a data security breach where we are legally required to do so.
+However the Internet (including social media channels) and email are not secure. Your communications may route through a number of countries before being delivered, may be intercepted by third parties and may not always reach the intended recipient – this is the nature of the World Wide Web/Internet. We cannot accept responsibility for any such unauthorised access or loss of personal information that is beyond our control.
+You are responsible for protecting your username and password for your App and must not share it with, or disclose it, to anyone.
+If you want you to learn more about how to protect your data and your devices against fraud, identity theft, viruses and many other online problems, please visit www.getsafeonline.org. Get Safe Online is supported by HM Government and leading businesses.
+Our CCS were developed in such a way that the personal data which is collected is necessary to deliver the best service possible. Appropriate technical measures have been built in to keep your data secure in line with our legal duties.
+Sharing your personal information
+· companies within our group;
+· If you are a Primary User, your Invited Users;
+· If you are an Invited User, your Primary User;
+· The app is provided by e3 Media (trading as Great State);
+· our third party hosting services providers; 
+· our professional advisors (including without limitation tax, legal or other corporate advisors who provide professional services to us, corporate or insolvency practitioners or prospective buyers or sellers of business(es) or asset(s));
+· other third party suppliers, business partners and sub-contractors for business administration, support, processing services, or IT or telecommunications purposes (in particular IBM and AT&T Inc.);
+· third party suppliers which provide us with payment services. This is currently Worldline;
+· third party suppliers for audio/ voice recognition services (in particular SoundHound Inc.)
+· third party suppliers of diagnostics services, namely Snap-On who provide the Electronic Vehicle Health Check service;
+· third party providers of the Digital Roadside Assistance service, namely Bosch Service Solutions GmbH, who will further share data with roadside assistance providers such as AA;
+· other carefully selected third party suppliers who support us with marketing activity, client relationship management, product optimisation and data analytics, including in particular:
+- e3 Media (trading as Great State) and IBM – We work with these service providers to understand our data as a company. This helps us to find the facts that matter most to our business and understand our customers. By doing this we can provide a better experience and more personalised service to you;
+- e3 Media Limited (trading as Great State) – We also use Great State to develop and provide you with the App, carry out analytics to improve the App, and monitor and improve our marketing communications
+- IBM provide the system infrastructure to enable customer vehicles to communicate with the mobile application, identity management services and security consulting services.
+- ICUC – We use ICUC to carry out analytics of how many videos are watched etc in Discovery Feed so that we can improve the content of the Discovery Feed
+- Digitalist Group Plc – We use Digitalist Group Plc to provide display audio services in the car
+· third parties that you approve (including without limitation, social media sites and third party payment providers);
+· emergency services in the event of an emergency;
+· our regulators, law enforcement or fraud prevention agencies, as well as our legal advisers, courts, the police and any other authorised bodies, for the purposes of investigating any actual or suspected criminal activity or other regulatory or legal matters;
+· government bodies, or other authorities in the UK and abroad, such as those responsible for immigration, border control, security and anti-terrorism; and
+· HMRC or other tax bodies or agencies to comply with our legal and regulatory obligations.
+We will disclose your personal information to third parties:
+· in the event that we consider selling any business or assets, in which case we will disclose your personal information to any prospective buyers of such business or assets;
+· if we, or substantially all of our assets, are acquired by a third party, in which case personal information held by us about our customers will be one of the transferred assets;
+· in the event we are the subject of any insolvency situation (e.g. the administration or liquidation);
+· in order to enforce or apply our terms and conditions, policies or any contract we have with you or have facilitated between you and a third party;
+· to protect our rights, property, or safety, or that of our people, or others. This includes exchanging information with other companies and organisations (including without limitation HMRC, the local police or other local law enforcement agencies) for the purposes of safety, crime prevention, fraud protection and credit risk reduction; and
+· if we are under a duty to disclose or share your personal information in order to comply with any legal obligation or regulatory requirements, or otherwise for the prevention or detection of fraud or crime.
+International transfers of your personal information
+We may transfer personal information to countries other than the country in which the data was originally collected, including countries outside the EU and the UK, such as India, in order to provide you with our services. These countries may not have the same data protection laws as the country in which you initially provided the information and may not provide the same level of protection.
+If we transfer personal information to countries outside of the EEA, we may rely on a decision from the European Commission (or, in the case of the UK, the Secretary of State) determining that the country provides an adequate level of protection to the Data Protection Laws (for example, an adequacy determination to transfer your data to our parent company located in Japan).
+We may also rely on the EU-US Privacy Shield Framework where the transfer is to the US. SoundHound process data relating to the Honda Personal Assistant in the US and they are certified under the EU-US Privacy Shield Framework.
+Alternatively, we may rely on appropriate safeguards set out by law in respect of transfers of personal information to a country outside of the EEA, for example, by agreeing standard contractual clauses adopted by the European Commission or the UK Government. We have entered into such standard contractual clauses with IBM in India as some of the processing carried out by IBM will be carried out there.
+A copy of the standard contractual clauses are available on the European Commission's website here and for more information about the EU-US Privacy Shield Framework for US companies, please click here.
+Retention of your personal data
+We will only process your personal data for as long as necessary to achieve the purposes for which we process it. Once it is no longer needed for these purposes, we will delete or anonymise it so that it can no longer be linked to you.
+Since each item of data may be used for a number of different purposes, the determination of the relevant retention period depends on the nature of the data, why we process it and the legal and operational needs for keeping it.
+We have indicated certain specific retention periods in the table above. Where these specific periods do not apply:
+· We will keep your account and profile information (eg email address, mobile number, country, language, subscription information, and marketing information) for as long as you have an account with us. Once you delete your account, your account and profile information is deleted within 24 hours and will no longer be recoverable.
+· We will delete or anonymise other data, on a rolling basis, up to 90 days after it is collected. This means that on day 91, we will delete or anonymise the data collected on day 1 in such manner that it can no longer be linked to you, and on day 92, we will delete or anonymise the data collected on day 2.
+If before the expiry of such 90 day period (i) you cancel your account; (ii) you de-enrol the Car; or (iii) we terminate your account for breaching the terms and conditions, we will delete or anonymise this data shortly thereafter.
+This data is comprised of:
+o Vehicle data, for example, floating car data (ie information about your vehicle's location and speed at specific times), Car sensor data, and DTC (Diagnostic Trouble Code) history
+o Customer journey data, for example, the Car's driving log;
+o Customer status data, for example,  what remote services are available to you, and the status of the Car's Malfunction Indication Lamp Status; and
+o Customer event data, for example, CCS requests you make and errors relating to such requests, and notifications from the Car such as security alerts.
+We do not delete VIN numbers because these are used to identify each Car which we have manufactured and are needed for various purposes which are outside the scope of this policy.
+For more detailed information about these retention periods, please email our data protection officer at DPM-UK@honda-eu.com.
+Your rights
+As a data subject, you have the following rights under the Data Protection Laws.
+Right:
+Description:
+(1) To be informed
+A right to be informed about the personal information we hold about you. This policy (together with our general Privacy Notice sets out how we collect, hold and store your information, what we do with it and why. If you have any questions, please contact us so we can provide you with the further information you require.
+(2) Of access
+A right to access the personal information we hold about you.
+(3) To rectification
+A right to require us to rectify any inaccurate personal information we hold about you.
+(4) To erasure
+A right to ask us to delete the personal information we hold about you. This right will only apply where (for example):
+- we no longer need to use the personal information to achieve the purpose we collected it for;
+- where you withdraw your consent if we are using your personal information based on your consent; or
+- where you object to the way we process your data (in line with Right 7 below).
+Note that you may trigger the deletion of your profile information and the anonymization of all vehicle data by deleting your account.
+You may also trigger the anonymization of all vehicle data by de-enrolling your vehicle (although this does not result in the deletion of your profile information since you would still have a Honda account.
+(5) To restrict processing
+In certain circumstances, a right to restrict our processing of the personal information we hold about you. This right will only apply where (for example):
+- you dispute the accuracy of the personal information held by us;
+- where you would have the right to ask us to delete the personal information but would prefer that our processing is restricted instead; or
+- where we no longer need to use the personal information to achieve the purpose we collected it for, but you need the data for the purposes of establishing, exercising or defending legal claims.
+ You may switch off data sharing at any time. You will not be able to use CCS whilst data sharing is switched off but by switching off data sharing you will stop the collection of all data (except for data processed by AT&T as a result of your eSIM's connection to the mobile network).
+(6) To data portability
+In certain circumstances, a right to receive the personal information you have given us, in a structured, commonly used and machine readable format. You also have the right to require us to transfer this personal information to another organisation, at your request.
+(7) To object
+A right to object to our processing of the personal information we hold about you where our lawful basis is for the purpose of our legitimate interests, unless we are able to demonstrate, on balance, legitimate grounds for continuing to process the personal information which override your rights or which are for the establishment, exercise or defence of legal claims.
+(8) In relation to automated decision making and profiling
+A right for you not to be subject to a decision based solely on an automated process, including profiling, which produces legal effects concerning you or similarly significantly affect you. We do not carry out any automated processing which produces such an effect. However, we do create user profiles to understand our customer base so that we can and provide you with a the tailored and expert service.
+(9) To withdraw
+A right to withdraw your consent, where we are relying on it to use your personal information (for example, to provide you with marketing material). Please note that the withdrawal shall only be effective for the future. Processing that occurred before the withdrawal shall not be affected.
+We welcome your views about our Services and this policy. If you would like to contact us with any queries or comments, request further information or exercise any of your available rights set out above, please email us at DPM-UK@honda-eu.com.
+If you would like this notice in another format (for example audio, large print, braille) please contact us using the details above.
+We encourage you to contact us first if you have any queries, comments or concerns about the way we handle your personal information. However, if you are not satisfied with our handling of any request by you in relation to your rights or concerns, you also have the right to make a complaint to our supervisory authority, which is the UK's Information Commissioner's Office. Their address is: First Contact Team, Information Commissioner's Office, Wycliffe House, Water Lane, Wilmslow, SK9 5AF.
+Last updated: 23 March 2020

@@ -1,0 +1,45 @@
+{
+    "headers": [],
+    "rows": [
+        [
+            "Right:",
+            "Description:"
+        ],
+        [
+            "(1) To be informed",
+            "A right to be informed about the personal information we hold about you. This policy (together with our general\u00a0Privacy Notice\u00a0sets out how we collect, hold and store your information, what we do with it and why. If you have any questions, please contact us so we can provide you with the further information you require."
+        ],
+        [
+            "(2) Of access",
+            "A right to access the personal information we hold about you."
+        ],
+        [
+            "(3) To rectification",
+            "A right to require us to rectify any inaccurate personal information we hold about you."
+        ],
+        [
+            "(4) To erasure",
+            "A right to ask us to delete the personal information we hold about you. This right will only apply where (for example):- we no longer need to use the personal information to achieve the purpose we collected it for;- where you withdraw your consent if we are using your personal information based on your consent; or- where you object to the way we process your data (in line with Right 7 below).Note that you may trigger the deletion of your profile information and the anonymization of all vehicle data by deleting your account.You may also trigger the anonymization of all vehicle data by de-enrolling your vehicle (although this does not result in the deletion of your profile information since you would still have a Honda account."
+        ],
+        [
+            "(5) To restrict processing",
+            "In certain circumstances, a right to restrict our processing of the personal information we hold about you. This right will only apply where (for example):- you dispute the accuracy of the personal information held by us;- where you would have the right to ask us to delete the personal information but would prefer that our processing is restricted instead; or- where we no longer need to use the personal information to achieve the purpose we collected it for, but you need the data for the purposes of establishing, exercising or defending legal claims.You may switch off data sharing at any time. You will not be able to use CCS whilst data sharing is switched off but by switching off data sharing you will stop the collection of all data (except for data processed by AT&T as a result of your eSIM's connection to the mobile network)."
+        ],
+        [
+            "(6) To data portability",
+            "In certain circumstances, a right to receive the personal information you have given us, in a structured, commonly used and machine readable format. You also have the right to require us to transfer this personal information to another organisation, at your request."
+        ],
+        [
+            "(7) To object",
+            "A right to object to our processing of the personal information we hold about you where our lawful basis is for the purpose of our legitimate interests, unless we are able to demonstrate, on balance, legitimate grounds for continuing to process the personal information which override your rights or which are for the establishment, exercise or defence of legal claims."
+        ],
+        [
+            "(8) In relation to automated decision making and profiling",
+            "A right for you not to be subject to a decision based solely on an automated process, including profiling, which produces legal effects concerning you or similarly significantly affect you. We do not carry out any automated processing which produces such an effect. However, we do create user profiles to understand our customer base so that we can and provide you with a the tailored and expert service."
+        ],
+        [
+            "(9) To withdraw",
+            "A right to withdraw your consent, where we are relying on it to use your personal information (for example, to provide you with marketing material). Please note that the withdrawal shall only be effective for the future. Processing that occurred before the withdrawal shall not be affected."
+        ]
+    ]
+}
