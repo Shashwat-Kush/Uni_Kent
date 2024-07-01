@@ -1,0 +1,10 @@
+{
+  "Output": [
+    {
+      "DataTypes":,                ->This can be either 'person' or 'vehicle',
+      "DataCategory":,             ->This is the data category, corresponding to the 'name' of person_data_kb.json and vehicle_data_kb.json
+      "DataItems": [],             ->Export all data items here as an array
+      "PrivacyPolicyChuckIndex":,  ->The index to refer to the original privacy policy text
+      "DomainKnowledgeChuckIndex": ->The index to refer to the specific domain knowledge
+    },
+}

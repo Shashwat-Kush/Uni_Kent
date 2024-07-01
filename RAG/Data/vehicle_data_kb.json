@@ -1,0 +1,190 @@
+{
+  "DataTypes": [
+    {
+      "name": "ADAS",
+      "description":  "Antilock Braking System signals."
+      "items": ["ABS", "Active Autonomy Level", "Cruise Control", "Driver Monitoring System (DMS)", "Emergency Brake Assist (EBA) System", "Electronic Brakeforce Distribution (EBD) System",
+      "Electronic Stability Control System signals", "Auto Power Optimization", "Lane Departure Detection System", "Obstacle Sensor System", "Power optimization", "Autonomy Level Support", "Traction Control System"]
+    },
+    {
+      "name": "Acceleration",
+      "description":  "Spatial acceleration."
+      "items": ["Lateral acceleration", "Longitudinal acceleration", "vertical acceleration"]
+    },
+    {
+      "name": "Angular Velocity",
+      "description":  "Spatial rotation."
+      "items": ["Pitch", "Roll", "Yaw"]
+    },
+    {
+      "name": "Average Speed",
+      "description":  "Average speed for the current trip."
+    },
+    {
+      "name": "Body",
+      "description":  "All body components of a vehicle",
+      "items": ["Body Type", "Hood", "Horn", "Is Auto Power Optimize", "Lights", "Mirrors", "Power Optimize Level", "Rain detection", "Rear Main Spoiler Position", "Refuel Position", "Trunk", "Windshield"]
+    },
+    {
+      "name": "Cabin",
+      "description":  "All in-cabin components, including doors of a vehicle",
+      "items": ["Convertible", "Door", "Door Count", "Driver Position", "HVAC", "Infotainment", "Is Auto Power Optimize", "Is Window Child Lock Engaged", "Light", "Power Optimize Level", "Rear Shade", "Rearview Mirror", "Seat", "Seat PosCount", "Seat RowCount", "Sunroof"]
+    },
+    {
+      "name": "Cargo Volume",
+      "description":  "The available volume for cargo or luggage. For automobiles, this is usually the trunk volume."
+    },
+    {
+      "name": "Chassis",
+      "description":  "All data concerning steering, suspension, wheels, and brakes."
+    },
+    {
+      "name": "Connectivity",
+      "description":  "Connectivity data"
+    },
+    {
+      "name": "Curb Weight",
+      "description":  "Vehicle curb weight, including all liquids and full tank of fuel, but no cargo or passengers."
+    },
+    {
+      "name": "CurrentLocation",
+      "description":  "The current latitude and longitude of the vehicle.",
+      "items": ["Altitude", "GNSS Receiver", "Heading", "Horizontal Accuracy", "Latitude", "Longitude", "Timestamp", "Vertical Accuracy"]
+    },
+    {
+      "name": "Current Overall Weight",
+      "description":  "Current overall Vehicle weight. Including passengers, cargo and other load inside the car."
+    },
+    {
+      "name": "Driver data",
+      "description":  "Driver monitoring data when driving the vehilce",
+      "items": ["Attentive Probability", "Distraction Level", "Fatigue Level", "Heart Rate", "Identifier", "Is Eyes On Road", "Is Hands On Wheel"]
+    },
+    {
+      "name": "Emissions CO2",
+      "description":  "The CO2 emissions"
+    },
+    {
+      "name": "Exterior",
+      "description":  "Information about exterior measured by vehicle.",
+      "items": ["Air Temperature", "Humidity", "Light Intensity"]
+    },
+    {
+      "name": "GrossWeight",
+      "description":  "Curb weight of vehicle, including all liquids and full tank of fuel and full load of cargo and passengers."
+    },
+    {
+      "name": "Height",
+      "description":  "Overall vehicle height."
+    },
+    {
+      "name": "IsAutoPowerOptimize",
+      "description":  "Auto Power Optimization Flag When set to 'true', the system enables automatic power optimization, dynamically adjusting the power optimization level based on runtime conditions or features managed by the OEM. When set to 'false', manual control of the power optimization level is allowed."
+    },
+    {
+      "name": "IsBrokenDown",
+      "description":  "Vehicle breakdown or any similar event causing vehicle to stop on the road, that might pose a risk to other road users. True = Vehicle broken down on the road, due to e.g. engine problems, flat tire, out of gas, brake problems. False = Vehicle not broken down."
+    },
+    {
+      "name": "IsMoving",
+      "description":  "Indicates whether the vehicle is stationary or moving."
+    },
+    {
+      "name": "Length",
+      "description":  "Overall vehicle length."
+    },
+    {
+      "name": "LowVoltageBattery",
+      "description":  "Signals related to low voltage battery.",
+      "items": ["CurrentCurrent", "CurrentVoltage", "NominalCapacity", "NominalVoltage"]
+    },
+    {
+      "name": "LowVoltageSystemState",
+      "description":  "State of the supply voltage of the control units (usually 12V)."
+    },
+    {
+      "name": "MaxTowBallWeight",
+      "description":  "Maximum vertical weight on the tow ball of a trailer."
+    },
+    {
+      "name": "MaxTowWeight",
+      "description":  "Maximum weight of trailer."
+    },
+    {
+      "name": "OBD",
+      "description":  "OBD data",
+      "items": ["AbsoluteLoad", "AcceleratorPositionD", "AcceleratorPositionE", "AcceleratorPositionF", "AirStatus", "AmbientAirTemperature", "BarometricPressure", "Catalyst", "CommandedEGR", "CommandedEVAP", "CommandedEquivalenceRatio", "ControlModuleVoltage", "CoolantTemperature", "DTCList", "DistanceSinceDTCClear", "DistanceWithMIL", "DriveCycleStatus", "EGRError", "EVAPVaporPressure", "EVAPVaporPressureAbsolute", "EVAPVaporPressureAlternate", "EngineLoad", "EngineSpeed", "EthanolPercent", "FreezeDTC", "FuelInjectionTiming", "FuelLevel", "FuelPressure", "FuelRailPressureAbsolute", "FuelRailPressureDirect", "FuelRailPressureVac", "FuelRate", "FuelStatus", "FuelType", "HybridBatteryRemaining", "IntakeTemp", "IsPTOActive", "LongTermFuelTrim1", "LongTermFuelTrim2", "LongTermO2Trim1", "LongTermO2Trim2", "LongTermO2Trim3", "LongTermO2Trim4", "MAF", "MAP", "MaxMAF", "O2", "O2WR", "OBDStandards", "OilTemperature", "OxygenSensorsIn2Banks", "OxygenSensorsIn4Banks", "PidsA", "PidsB", "PidsC", "RelativeAcceleratorPosition", "RelativeThrottlePosition", "RunTime", "RunTimeMIL", "ShortTermFuelTrim1", "ShortTermFuelTrim2", "ShortTermO2Trim1", "ShortTermO2Trim2", "ShortTermO2Trim3", "ShortTermO2Trim4", "Speed", "Status", "ThrottleActuator", "ThrottlePosition", "ThrottlePositionB", "ThrottlePositionC", "TimeSinceDTCCleared", "TimingAdvance", "WarmupsSinceDTCClear"]
+    },
+    {
+      "name": "PowerOptimizeLevel",
+      "description":  "Power optimization level for this branch/subsystem. A higher number indicates more aggressive power optimization. Level 0 indicates that all functionality is enabled, no power optimization enabled. Level 10 indicates most aggressive power optimization mode, only essential functionality enabled."
+    },
+    {
+      "name": "Powertrain",
+      "description":  "Powertrain data for battery management, etc.",
+      "items":["AccumulatedBrakingEnergy", "CombustionEngine", "ElectricMotor", "FuelSystem", "IsAutoPowerOptimize", "PowerOptimizeLevel", "Range", "TimeRemaining", "TractionBattery", "Transmission", "Type"]
+    },
+    {
+      "name": "RoofLoad",
+      "description":  "The permitted total weight of cargo and installations (e.g. a roof rack) on top of the vehicle."
+    },
+    {
+      "name": "Service",
+      "description":  "Service data.",
+      "items":["DistanceToService", "IsServiceDue", "TimeToService"]
+    },
+    {
+      "name": "Speed",
+      "description":  "Vehicle speed."
+    },
+    {
+      "name": "StartTime",
+      "description":  "Start time of current or latest trip, formatted according to ISO 8601 with UTC time zone."
+    },
+    {
+      "name": "Trailer",
+      "description":  "Trailer signals."
+    },
+    {
+      "name": "TraveledDistance",
+      "description":  "Odometer reading, total distance traveled during the lifetime of the vehicle."
+    },
+    {
+      "name": "TraveledDistanceSinceStart",
+      "description":  "Distance traveled since start of current trip."
+    },
+    {
+      "name": "TripDuration",
+      "description":  "Duration of latest trip."
+    },
+    {
+      "name": "TripMeterReading",
+      "description":  "Trip meter reading."
+    },
+    {
+      "name": "TurningDiameter",
+      "description":  "Minimum turning diameter, Wall-to-Wall, as defined by SAE J1100-2009 D102."
+    },
+    {
+      "name": "VehicleIdentification",
+      "description":  "Attributes that identify a vehicle.",
+      "items":["AcrissCode", "BodyType", "Brand", "DateVehicleFirstRegistered", "KnownVehicleDamages", "LicensePlate", "MeetsEmissionStandard", "Model", "OptionalExtras", "ProductionDate", "PurchaseDate", "VIN", "VehicleConfiguration", "VehicleExteriorColor", "VehicleInteriorColor", "VehicleInteriorType", "VehicleModelDate", "VehicleSeatingCapacity", "VehicleSpecialUsage", "WMI", "Year"]
+    },
+    {
+      "name": "Width",
+      "description":  "Overall vehicle width."
+    },
+    {
+      "name": "WidthExcludingMirrors",
+      "description":  "Overall vehicle width excluding mirrors, as defined by SAE J1100-2009 W103."
+    },
+    {
+      "name": "WidthFoldedMirrors",
+      "description":  "Overall vehicle width with mirrors folded, as defined by SAE J1100-2009 W145."
+    },
+    {
+      "name": "WidthIncludingMirrors",
+      "description":  "Overall vehicle width including mirrors, as defined by SAE J1100-2009 W144."
+    }
+]
+}
